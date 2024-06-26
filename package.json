@@ -1,0 +1,22 @@
+{
+  "name": "q-select-issue",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.30",
+    "quasar": "2.16.4",
+    "@quasar/extras": "^1.16.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "vite": "^5.3.1",
+    "@quasar/vite-plugin": "^1.7.0",
+    "sass": "^1.77.6"
+  }
+}
